@@ -1,6 +1,6 @@
 # flutter_storage_app
 
-A new Flutter project.
+tutorial flutter data Persistance and how to use Shared preferences and storage a simple data on android ios.
 
 ## Getting Started
 
